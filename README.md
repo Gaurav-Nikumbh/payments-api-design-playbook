@@ -36,7 +36,8 @@ A well-designed API ensures that payment execution remains correct even under fa
 
 Below is a simplified flow of how a payment API request is handled.
 
-![API Flow](diagram/api-request-flow.png)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b175bc0a-48b6-4516-99ab-6b0dc7ca8f0b" />
+
 
 Typical stages include:
 
